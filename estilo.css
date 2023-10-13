@@ -1,21 +1,33 @@
 body{background-color: #750000;    
 }
-span{
-     text-align: center;    
-}
+ 
+
 h1 {
-    font-size: 48px;
+    width: 600px;
+    margin: 50px auto;
+    font-size: 38px;
     text-align: center;;
     color: #ffe4b0;
+    text-decoration: underline;
 }
+
+img{
+    border: 7px solid #212332;
+}
+
 h2{
+    width: 600px;
+    margin: 50px auto;
     font-size: 25px;
     text-align: center;
     text-decoration: underline;
     color:#ecb251    
+    
 }
 
 h3{
+    width: 600px;
+    margin: 50px auto;
     font-size: 20px;
     text-align: left;
     text-decoration: underline;
@@ -24,11 +36,28 @@ h3{
 }
 
 div{
+    width: 600px;
+    margin: 50px auto;
     font-size: 15px;
     text-align: left;
     font-weight: bold;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color:#dedede
+    color:#dedede;
+
 }
+
+a{
+    width: 600px;
+    margin: 50px auto;
+    color:#dedede;
+    text-align: left;
+    font-family: 'verdana';
+    font-weight: bold;
+    padding:10px 10px;
+    border-left:4px solid #212332;
+    border-radius: 5px 10px 5px 0px #212332;
+    background-color:#212332;
+}
+
 
   
